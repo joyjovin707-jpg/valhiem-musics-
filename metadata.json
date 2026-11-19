@@ -1,0 +1,8 @@
+{
+  "name": "Remix Soundpress",
+  "description": "Paste any Spotify, YouTube, SoundCloud, or media URL to extract and download music, videos, or individual tracks from playlists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
